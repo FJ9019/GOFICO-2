@@ -1882,7 +1882,7 @@ span.select2-selection__rendered {
   position:relative;
 }
 .book-demo-modal .hs-form-field.hs-fieldtype-booleancheckbox input[type="checkbox"]:checked~span:before {
-  background-image: url(../images/checked.png);
+  background-image: url(../img/checked.png);
 }
 .book-demo-modal .hs-form-field.hs-fieldtype-booleancheckbox label:before,
 .book-demo-modal .hs-form-field.hs-fieldtype-booleancheckbox span:before{
@@ -1890,7 +1890,7 @@ span.select2-selection__rendered {
   content: " ";
   width: 25px;
   height: 25px;
-  background-image: url(../images/uncheck.png);
+  background-image: url(../img/uncheck.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
